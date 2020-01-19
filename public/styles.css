@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    margin: 60px 0px;
+}
+
+#navigation {
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+}
+
+#notes {
+    margin-top: 95px;
+}
+
+#notes li {
+    margin: 20px 0px;
+}
