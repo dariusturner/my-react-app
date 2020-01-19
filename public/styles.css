@@ -9,10 +9,32 @@ h1 {
     width: 100vw;
 }
 
+#logo {
+    margin-left: 10px;
+    height: 50px;
+    width: 80px;
+}
+
 #notes {
     margin-top: 95px;
 }
 
 #notes li {
     margin: 20px 0px;
+}
+
+#projects {
+    text-align: center;
+}
+
+#projects .section {
+    margin-bottom: 50px;
+}
+
+#projects .section h3 {
+    margin-bottom: 30px;
+}
+
+#projects .section a {
+    text-decoration: underline;
 }

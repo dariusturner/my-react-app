@@ -3,7 +3,7 @@ import React from 'react';
 function navBar() {
     return (<div id="navigation">
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-  <a className="navbar-brand" href="/">React App</a>
+  <a className="navbar-brand" href="/">React App<img id="logo" src="/images/react.png" alt="React.js Logo"></img></a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
